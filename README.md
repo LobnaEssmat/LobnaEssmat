@@ -34,6 +34,8 @@ src="https://camo.githubusercontent.com/533da8800843b57b91a3227ce7d151ca865a0eea
 <img width="70px"  src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
 <img width="70px"  src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/> 
 <img width="70px"  src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
+ <img src="https://camo.githubusercontent.com/835b4fc55d1c0f6f2272b3d51b3604a3a0dbfdf500de65eadaaad67dc3124af5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d2e56697375616c5f53747564696f2d3543324439313f7374796c653d666c61742d737175617265266c6f676f3d2e6e6574266c6f676f436f6c6f723d7768697465"/>
+ <img src="https://camo.githubusercontent.com/66aa0e0ae7880fab6e364ac13d3bb71b074a82d6415e701527d06c3568aa59bf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d2e4e65742d2d436f72652d3731324244343f7374796c653d666c61742d737175617265266c6f676f3d2e6e6574266c6f676f436f6c6f723d7768697465"/>
 </p>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
