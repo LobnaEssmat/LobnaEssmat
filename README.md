@@ -11,7 +11,7 @@ interested in Data science , ML and DL and how to appear them in a useful applic
 - 📫Reach me out, and let's be friends 🤝
 
 [![Linkedin Badge](https://img.shields.io/badge/-LobnaEssmat-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lobna-essmat-369b62140)](https://www.linkedin.com/in/lobna-essmat-369b62140)
-
+[![Outlook Badge](https://img.shields.io/badge/-lobna____essmat-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white&link=mailto:lobna20161701047@cis.asu.edu.eg)](mailto:lobna20161701047@cis.asu.edu.eg)
 
 <br />
 
