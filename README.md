@@ -4,13 +4,13 @@
 I'm a Software Engineer graduated in 2020 belive in "Work hard, have fun, make history" ~ Jeff Bezos, Amazon founder.
 interested in Data science , ML and DL and how to appear them in a useful applications specifically in Mobile Apps to make life more easier and helpful.
 
-- 🔭 I’m currently working on Web apps using <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> , <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png/> ,<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /> serve Electrical industry.
+- 🔭 I’m currently working on Web apps using <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> , <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png/> , <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /> serve Electrical industry.
 
 - 🌱 I’m currently learning some Advanced Data base concepts as well as data science.
 - 👯 I’m looking to collaborate on Data Science , ML Projects.
 - 📫Reach me out, and let's be friends 🤝
-<a href"https://www.linkedin.com/in/lobna-essmat-369b62140">
-<img src="https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" onclick="window.open('https://www.linkedin.com/in/lobna-essmat-369b62140);></a>
+<a href"https://www.linkedin.com/in/lobna-essmat-369b62140"></a>
+<img src="https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" onclick="window.open('https://www.linkedin.com/in/lobna-essmat-369b62140);/>
 
 <br />
 
