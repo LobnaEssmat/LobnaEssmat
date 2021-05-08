@@ -4,11 +4,11 @@
 I'm a Software Engineer graduated in 2020 belive in "Work hard, have fun, make history" ~ Jeff Bezos, Amazon founder.
 interested in Data science , ML and DL and how to appear them in a useful applications specifically in Mobile Apps to make life more easier and helpful
 
-- 🔭 I’m currently working on Web apps using <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pluralsight.com%2Fpaths%2Fcsharp&psig=AOvVaw0LgWe7ushjBmfzl5BXzg7g&ust=1620564109479000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLD-zvKNuvACFQAAAAAdAAAAABAD"/>
+- 🔭 I’m currently working on Web apps using <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png/> ,
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 📫Reach me out, and let's be friends 🤝
-- 
+<a href"clickable link here"><img src="https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465"></a>
 
 <br />
 
@@ -20,7 +20,6 @@ interested in Data science , ML and DL and how to appear them in a useful applic
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
