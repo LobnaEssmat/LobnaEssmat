@@ -10,7 +10,7 @@ interested in Data science , ML and DL and how to appear them in a useful applic
 - 👯 I’m looking to collaborate on Data Science , ML Projects.
 - 📫Reach me out, and let's be friends 🤝
 <a href="https://www.linkedin.com/in/lobna-essmat-369b62140">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+<img src=https://camo.githubusercontent.com/3504a7cca75b1d0850babf10562a91f7058061d9c47e24a4bddbe396e591d520/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6962726168696d686173616e39362d626c75653f7374796c653d666c6174266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f6962726168696d686173616e3936"
 alt="Linkedin Badge" data-canonical-src="https://img.shields.io/badge/-lobna-essmat-369b62140-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lobna-essmat-369b62140" style="max-width:100%;"/></a>
 
 <br />
