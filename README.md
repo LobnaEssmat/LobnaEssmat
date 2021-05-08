@@ -9,8 +9,9 @@ interested in Data science , ML and DL and how to appear them in a useful applic
 - 🌱 I’m currently learning some Advanced Data base concepts as well as data science.
 - 👯 I’m looking to collaborate on Data Science , ML Projects.
 - 📫Reach me out, and let's be friends 🤝
+<a href="https://www.linkedin.com/in/lobna-essmat-369b62140">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-alt="Linkedin Badge" data-canonical-src="https://img.shields.io/badge/-lobna-essmat-369b62140-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lobna-essmat-369b62140" style="max-width:100%;"/>
+alt="Linkedin Badge" data-canonical-src="https://img.shields.io/badge/-lobna-essmat-369b62140-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lobna-essmat-369b62140" style="max-width:100%;"/></a>
 
 <br />
 
