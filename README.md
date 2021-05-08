@@ -4,7 +4,7 @@
 I'm a Software Engineer graduated in 2020 belive in "Work hard, have fun, make history" ~ Jeff Bezos, Amazon founder.
 interested in Data science , ML and DL and how to appear them in a useful applications specifically in Mobile Apps to make life more easier and helpful.
 
-- 🔭 I’m currently working on Web apps using <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> <img align="left" alt="csharp" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"/> <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /> serve Electrical industry.
+- 🔭 I’m currently working on Web apps using <br /> <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> <img align="left" alt="csharp" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"/> <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /> serve Electrical industry.
 
 - 🌱 I’m currently working on some Advanced Data base concepts as well as data science.
 - 👯 I’m looking to collaborate on Data Science , ML Projects.
