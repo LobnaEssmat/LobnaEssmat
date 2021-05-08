@@ -1,11 +1,10 @@
 ### Hi I'm Lobna  <img width="26px" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966"/> <img  src="https://camo.githubusercontent.com/57bb7752418e0b7edca9aded120099f46fab7e7408f242595ced4349ffc7dcd1/68747470733a2f2f76697369746f722d62616467652e676c697463682e6d652f62616467653f706167655f69643d68696d616d6567616865642e68696d616d656761686564"/>
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-I'm a Software Engineer graduate in 2020 interested in Data science , ML and DL and how to appear them in a useful applications specifically in Mobile Development 
+I'm a Software Engineer graduated in 2020 belive in "Work hard, have fun, make history" ~ Jeff Bezos, Amazon founder.
+interested in Data science , ML and DL and how to appear them in a useful applications specifically in Mobile Apps to make life more easier and helpful
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on Web apps using <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pluralsight.com%2Fpaths%2Fcsharp&psig=AOvVaw0LgWe7ushjBmfzl5BXzg7g&ust=1620564109479000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLD-zvKNuvACFQAAAAAdAAAAABAD"/>
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 📫Reach me out, and let's be friends 🤝
