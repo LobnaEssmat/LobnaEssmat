@@ -47,6 +47,22 @@ src="https://camo.githubusercontent.com/533da8800843b57b91a3227ce7d151ca865a0eea
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <br />
+<br/>
 
+<p align="center">
+  <a href="https://github.com/LobnaEssmat" class="rich-diff-level-one">
+    <img src="https://github-readme-stats.vercel.app/api?username=LobnaEssmat&count_private=true&hide=stars&show_icons=true&theme=buefy&include_all_commits=true" alt="Lobna's Stats" >
+  </a>
+</p>
+
+<br>
+
+<p align="center">
+  <a href="https://github.com/LobnaEssmat">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LobnaEssmat&count_private=true&layout=compact" alt="Lobna's Stats" >
+  </a>
+</p>
+
+<br>
 
 
