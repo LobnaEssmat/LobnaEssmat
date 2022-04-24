@@ -2,7 +2,7 @@
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 I graduated as Software Engineer in 2020 from Ain Shams University.
-I graduated as Specialist Data Scientist from OTTAWA University •	Masters (M.Sc.) Degree in Electrical and Computer Engineering in 05-2022 from OTTAWA UNIVERSITY
+then graduated as Specialist Data Scientist from OTTAWA University •	Masters (M.Sc.) Degree in Electrical and Computer Engineering in 05-2022 from OTTAWA UNIVERSITY
 belive in "Work hard, have fun, make history" ~ Jeff Bezos, Amazon founder.
 interested in Data science , ML and DL and how to appear them in a useful applications specifically in Mobile Apps to make life more easier and helpful.
 
